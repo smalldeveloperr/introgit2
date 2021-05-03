@@ -4,3 +4,4 @@ Hello again
 .git commit
 .git remove
 .git status
+.git diff
